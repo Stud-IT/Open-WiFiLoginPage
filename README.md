@@ -7,4 +7,4 @@ Dieses Script öffnet sucht das Default Gateway der aktuellen WLAN-Verbindung he
 
 ## Bedienung
 1. Script starten
-1. Entweder öffnen sich nach ~10 Sekunden die Website oder ein wird eine detaillierte Fehlermeldung angezeigt.
+1. Entweder öffnen sich nach ~10 Sekunden die Website oder es wird eine detaillierte Fehlermeldung angezeigt.
